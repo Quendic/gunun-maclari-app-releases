@@ -2,17 +2,16 @@
 
 Modern, hızlı ve kullanıcı dostu arayüzü ile futbol heyecanını Android TV ekranlarınıza taşıyan özel bir IPTV uygulamasıdır. 
 
-## 🌟 Öne Çıkan Özellikler (v2.1 Güncellemesi)
+## 🌟 Öne Çıkan Özellikler (v2.2 Güncellemesi)
 
-- **3 Günlük Ücretsiz Deneme:** Yeni kullanıcılar için otomatik olarak başlayan 3 günlük deneme süresi sistemi eklendi.
-- **2026 Tasarım Dili:** Yeni tasarım standartlarına (Koyu Lacivert / Gökyüzü Mavisi) geçildi.
-- **Premium Takip Sistemi:** Profil menüsünde deneme süresi durumu ve kalan gün bilgisi artık anlık olarak görülebiliyor.
-- **Modernize Edilmiş Sayfalar:** Giriş ekranı, Premium kontrol ve M3U Setup sayfaları tamamen yeni tasarım diline taşındı.
-- **Gelişmiş Kumanda Navigasyonu:** D-pad geçişleri ve odaklanma iyileştirmeleri ile daha akıcı bir TV deneyimi sağlandı.
+- **Mandatory First Update Check:** Uygulama artık her açılışta öncelikle güncellemeleri kontrol eder. Bu sayede sürüm uyumsuzluklarından kaynaklanan çökmeler engellenir.
+- **Yenilenmiş Güncelleme Arayüzü:** Güncelleme diyaloğu, modern 2026 tasarım diline (Koyu Lacivert / Gökyüzü Mavisi) uygun şekilde yeniden tasarlandı.
+- **D-Pad Odaklanma İyileştirmeleri:** Güncelleme ekranında kumanda ile navigasyon daha akıcı ve kararlı hale getirildi.
+- **Merkezi Bileşen Sistemi:** Diyalog ve yükleme ekranları tüm uygulama için standartlaştırıldı.
 
 ## 🚀 Kurulum
 
-1. En güncel APK dosyasını (**v2.1**) [Releases](../../releases) bölümünden indirin.
+1. En güncel APK dosyasını (**v2.2**) [Releases](../../releases) bölümünden indirin.
 2. Android TV'nize dosyayı aktarın ve yükleyin.
 3. Uygulamayı açın, M3U listenizi girin ve favori liglerinizi seçerek kullanmaya başlayın.
 
